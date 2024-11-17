@@ -1,0 +1,37 @@
+[1.056s] Invoking command in '/home/liam/f24_robotics_apriltag/f24_robotics_apriltag/group/group': PYTHONPATH=/home/liam/f24_robotics_apriltag/f24_robotics_apriltag/group/build/group/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/liam/f24_robotics_apriltag/f24_robotics_apriltag/group/install/group/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/group build --build-base /home/liam/f24_robotics_apriltag/f24_robotics_apriltag/group/build/group/build install --record /home/liam/f24_robotics_apriltag/f24_robotics_apriltag/group/build/group/install.log --single-version-externally-managed install_data
+[1.438s] running egg_info
+[1.439s] creating ../build/group/group.egg-info
+[1.439s] writing ../build/group/group.egg-info/PKG-INFO
+[1.439s] writing dependency_links to ../build/group/group.egg-info/dependency_links.txt
+[1.440s] writing entry points to ../build/group/group.egg-info/entry_points.txt
+[1.440s] writing requirements to ../build/group/group.egg-info/requires.txt
+[1.440s] writing top-level names to ../build/group/group.egg-info/top_level.txt
+[1.440s] writing manifest file '../build/group/group.egg-info/SOURCES.txt'
+[1.441s] reading manifest file '../build/group/group.egg-info/SOURCES.txt'
+[1.442s] writing manifest file '../build/group/group.egg-info/SOURCES.txt'
+[1.442s] running build
+[1.442s] running build_py
+[1.443s] creating /home/liam/f24_robotics_apriltag/f24_robotics_apriltag/group/build/group/build
+[1.443s] creating /home/liam/f24_robotics_apriltag/f24_robotics_apriltag/group/build/group/build/lib
+[1.443s] creating /home/liam/f24_robotics_apriltag/f24_robotics_apriltag/group/build/group/build/lib/group
+[1.443s] copying group/__init__.py -> /home/liam/f24_robotics_apriltag/f24_robotics_apriltag/group/build/group/build/lib/group
+[1.443s] running install
+[1.443s] running install_lib
+[1.444s] creating /home/liam/f24_robotics_apriltag/f24_robotics_apriltag/group/install/group/lib/python3.10/site-packages/group
+[1.444s] copying /home/liam/f24_robotics_apriltag/f24_robotics_apriltag/group/build/group/build/lib/group/__init__.py -> /home/liam/f24_robotics_apriltag/f24_robotics_apriltag/group/install/group/lib/python3.10/site-packages/group
+[1.445s] byte-compiling /home/liam/f24_robotics_apriltag/f24_robotics_apriltag/group/install/group/lib/python3.10/site-packages/group/__init__.py to __init__.cpython-310.pyc
+[1.445s] running install_data
+[1.445s] creating /home/liam/f24_robotics_apriltag/f24_robotics_apriltag/group/install/group/share/ament_index
+[1.445s] creating /home/liam/f24_robotics_apriltag/f24_robotics_apriltag/group/install/group/share/ament_index/resource_index
+[1.445s] creating /home/liam/f24_robotics_apriltag/f24_robotics_apriltag/group/install/group/share/ament_index/resource_index/packages
+[1.445s] copying resource/group -> /home/liam/f24_robotics_apriltag/f24_robotics_apriltag/group/install/group/share/ament_index/resource_index/packages
+[1.445s] copying package.xml -> /home/liam/f24_robotics_apriltag/f24_robotics_apriltag/group/install/group/share/group
+[1.445s] creating /home/liam/f24_robotics_apriltag/f24_robotics_apriltag/group/install/group/share/group/launch
+[1.445s] copying launch/webots_launch.py -> /home/liam/f24_robotics_apriltag/f24_robotics_apriltag/group/install/group/share/group/launch
+[1.446s] creating /home/liam/f24_robotics_apriltag/f24_robotics_apriltag/group/install/group/share/group/worlds
+[1.446s] copying worlds/my_world.wbt -> /home/liam/f24_robotics_apriltag/f24_robotics_apriltag/group/install/group/share/group/worlds
+[1.446s] running install_egg_info
+[1.447s] Copying ../build/group/group.egg-info to /home/liam/f24_robotics_apriltag/f24_robotics_apriltag/group/install/group/lib/python3.10/site-packages/group-0.0.0-py3.10.egg-info
+[1.448s] running install_scripts
+[1.467s] writing list of installed files to '/home/liam/f24_robotics_apriltag/f24_robotics_apriltag/group/build/group/install.log'
+[1.482s] Invoked command in '/home/liam/f24_robotics_apriltag/f24_robotics_apriltag/group/group' returned '0': PYTHONPATH=/home/liam/f24_robotics_apriltag/f24_robotics_apriltag/group/build/group/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/liam/f24_robotics_apriltag/f24_robotics_apriltag/group/install/group/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/group build --build-base /home/liam/f24_robotics_apriltag/f24_robotics_apriltag/group/build/group/build install --record /home/liam/f24_robotics_apriltag/f24_robotics_apriltag/group/build/group/install.log --single-version-externally-managed install_data

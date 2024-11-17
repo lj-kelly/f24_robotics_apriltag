@@ -1,0 +1,35 @@
+running egg_info
+creating ../build/group/group.egg-info
+writing ../build/group/group.egg-info/PKG-INFO
+writing dependency_links to ../build/group/group.egg-info/dependency_links.txt
+writing entry points to ../build/group/group.egg-info/entry_points.txt
+writing requirements to ../build/group/group.egg-info/requires.txt
+writing top-level names to ../build/group/group.egg-info/top_level.txt
+writing manifest file '../build/group/group.egg-info/SOURCES.txt'
+reading manifest file '../build/group/group.egg-info/SOURCES.txt'
+writing manifest file '../build/group/group.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/liam/f24_robotics_apriltag/f24_robotics_apriltag/group/build/group/build
+creating /home/liam/f24_robotics_apriltag/f24_robotics_apriltag/group/build/group/build/lib
+creating /home/liam/f24_robotics_apriltag/f24_robotics_apriltag/group/build/group/build/lib/group
+copying group/__init__.py -> /home/liam/f24_robotics_apriltag/f24_robotics_apriltag/group/build/group/build/lib/group
+running install
+running install_lib
+creating /home/liam/f24_robotics_apriltag/f24_robotics_apriltag/group/install/group/lib/python3.10/site-packages/group
+copying /home/liam/f24_robotics_apriltag/f24_robotics_apriltag/group/build/group/build/lib/group/__init__.py -> /home/liam/f24_robotics_apriltag/f24_robotics_apriltag/group/install/group/lib/python3.10/site-packages/group
+byte-compiling /home/liam/f24_robotics_apriltag/f24_robotics_apriltag/group/install/group/lib/python3.10/site-packages/group/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/liam/f24_robotics_apriltag/f24_robotics_apriltag/group/install/group/share/ament_index
+creating /home/liam/f24_robotics_apriltag/f24_robotics_apriltag/group/install/group/share/ament_index/resource_index
+creating /home/liam/f24_robotics_apriltag/f24_robotics_apriltag/group/install/group/share/ament_index/resource_index/packages
+copying resource/group -> /home/liam/f24_robotics_apriltag/f24_robotics_apriltag/group/install/group/share/ament_index/resource_index/packages
+copying package.xml -> /home/liam/f24_robotics_apriltag/f24_robotics_apriltag/group/install/group/share/group
+creating /home/liam/f24_robotics_apriltag/f24_robotics_apriltag/group/install/group/share/group/launch
+copying launch/webots_launch.py -> /home/liam/f24_robotics_apriltag/f24_robotics_apriltag/group/install/group/share/group/launch
+creating /home/liam/f24_robotics_apriltag/f24_robotics_apriltag/group/install/group/share/group/worlds
+copying worlds/my_world.wbt -> /home/liam/f24_robotics_apriltag/f24_robotics_apriltag/group/install/group/share/group/worlds
+running install_egg_info
+Copying ../build/group/group.egg-info to /home/liam/f24_robotics_apriltag/f24_robotics_apriltag/group/install/group/lib/python3.10/site-packages/group-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/liam/f24_robotics_apriltag/f24_robotics_apriltag/group/build/group/install.log'
