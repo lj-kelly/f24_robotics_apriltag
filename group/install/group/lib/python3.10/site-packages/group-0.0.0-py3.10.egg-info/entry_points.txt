@@ -1,6 +1,0 @@
-[console_scripts]
-controller = group.group:main
-
-[launch.frontend.launch_extension]
-launch_ros = launch_ros
-
